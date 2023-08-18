@@ -1,2 +1,3 @@
 # Colon_Cancer_Classification
-Quick example of a CNN to predict colon cancer
+
+Quick example of using a CNN (implemented in PyTorch) to predict colon cancer 
